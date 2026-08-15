@@ -26,7 +26,8 @@
 ## 演示视频
 
 <div align="center">
-  <video src="docs/video/demo.mp4" controls width="900"></video>
+  <video src="docs/video/demo.mp4" controls width="900">
+    您的浏览器不支持视频播放，请 <a href="docs/video/demo.mp4">点击下载</a> 观看。
 </div>
 
 ## Windows 快速开始
